@@ -12,5 +12,4 @@ screenshots/
 /target/
 /build/
 /.idea/
-/.idea/sonarlint/
 /.allure/
