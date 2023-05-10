@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Wed May 10 05:03:24 GMT 2023","Wed May 10 05:04:10 GMT 2023","45648","","com.ivakulchyk.task.CartTest","","com.ivakulchyk.task.CartTest","testCountOfProductsShoppingCartPageToCart","testCountOfProductsShoppingCartPageToCart(int, int) [1] 5, 8",""
-"failed","Wed May 10 05:04:10 GMT 2023","Wed May 10 05:04:55 GMT 2023","45773","","com.ivakulchyk.task.CartTest","","com.ivakulchyk.task.CartTest","testCountProductsAtCartPopUp","testCountProductsAtCartPopUp(int, int) [1] 3, 3",""
-"failed","Wed May 10 05:02:38 GMT 2023","Wed May 10 05:03:24 GMT 2023","45856","","com.ivakulchyk.task.CartTest","","com.ivakulchyk.task.CartTest","testCountProductAtCartPopUp","testCountProductAtCartPopUp()",""
-"failed","Wed May 10 05:01:47 GMT 2023","Wed May 10 05:02:38 GMT 2023","51059","","com.ivakulchyk.task.CartTest","","com.ivakulchyk.task.CartTest","testAbilityToBuyThroughTheCart","testAbilityToBuyThroughTheCart(int, int) [1] 8, 6",""
